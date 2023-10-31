@@ -1,0 +1,140 @@
+
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.header
+{
+    width: 100%;
+    height: 100px;
+    background-color: #3b5998;
+}
+ .logo
+ {
+    width: 50%;
+    height: 40px;
+    float: left;
+    padding: 30px;
+    
+ }
+ .logo-text{
+    text-decoration: none;
+    font-size: 45px;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 200px;
+    
+    
+ }
+ .login-label
+ {
+    color: white;
+    font-size: 15px;
+ }
+ .login-control
+ {
+    margin-left: 115px;
+ }
+ .login
+ {
+    padding-top: 10px;
+ }
+ .forgotten{
+    color: rgb(139, 175, 207);
+    font-size: 15px;
+    text-decoration: none;
+
+ }
+ .submit-btn{
+    color: white;
+    background-color: #4267b2;
+    border-color: #29487d;
+    height: 25px;
+    cursor: pointer;
+    border-style: solid;
+ }
+ .submit-btn:hover
+ {
+    background-color: #485c84;
+ }
+ .left{
+    float: left;
+    width: 50%;
+    padding-left: 300px;
+    padding-top: 50px;
+
+    
+ }
+ :right{
+    float: left;
+    width: 50%;
+ 
+
+ }
+ .main-body
+ {  width: 100%;
+    height: 1000px;
+    background: #f8f5f5;
+    color: #1d2129;
+ }
+ .text-left
+ {
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-weight: bold;
+ }
+ .image1
+ {
+    width: 60px;
+    float: left;
+ }
+ .image-text
+ {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    float: left;
+    padding-left: 12px;
+ }
+ .image2
+ {
+    width: 60px;
+    padding-top: 57px;
+    float: left;
+    padding-left: 28px;
+    margin-left: -27px;
+    margin-top: -24px;
+}
+.image2_text{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    
+    float: left;
+    padding-left: 14px;
+    padding-top: 28px;
+
+}
+.image3{
+    width: 60px;
+    padding-top: 57px;
+    float: left;
+    padding-left: 28px;
+    margin-left: -27px;
+    margin-top: -24px;
+}
+.first_text{
+   width: 84%;
+   float: left;
+}
+.second_text
+{
+   width: 84%;
+   float: left;
+}
+.third_text
+{
+   width: 84%;
+   float: left;
+   margin-top: 10px;
+}
